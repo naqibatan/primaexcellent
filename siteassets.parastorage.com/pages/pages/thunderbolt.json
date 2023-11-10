@@ -1,0 +1,500 @@
+{
+  "applications": {
+    "14271d6f-ba62-d045-549b-ab972ae1f70e": {
+      "comp-jus09bzi": {
+        "compId": "comp-jus09bzi",
+        "controllerType": "142bb34d-3439-576a-7118-683e690a1e0d",
+        "applicationId": "14271d6f-ba62-d045-549b-ab972ae1f70e"
+      }
+    }
+  },
+  "connections": {
+    "wixCode": {
+      "text11": [{ "compId": "comp-jus09bz3", "role": "text11" }],
+      "page1": [{ "compId": "z0a5z", "role": "page1" }],
+      "section1": [{ "compId": "comp-lj5hd76d", "role": "section1" }],
+      "columnStrip3": [{ "compId": "comp-jus09bx8", "role": "columnStrip3" }],
+      "column3": [{ "compId": "comp-jus09byy", "role": "column3" }],
+      "gallery1": [{ "compId": "comp-jus09bzi", "role": "gallery1" }]
+    }
+  },
+  "controllerConfigs": {
+    "14271d6f-ba62-d045-549b-ab972ae1f70e": {
+      "comp-jus09bzi": {
+        "externalId": "a1459bc2-0eda-4a48-9133-94ca162ee082",
+        "publicData": { "COMPONENT": { "imageMediaManagerConfirmed": false } },
+        "style": {
+          "styleParams": {
+            "colors": {
+              "arrowsColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "backColor": {
+                "themeName": "color_12",
+                "value": "rgba(247,247,247,1)"
+              },
+              "bgColorExpand": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "descriptionColorExpand": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "foreColor": {
+                "themeName": "color_12",
+                "value": "rgba(247,247,247,1)"
+              },
+              "imageLoadingColor": {
+                "themeName": "color_13",
+                "value": "rgba(198,198,198,1)"
+              },
+              "itemBorderColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemDescriptionFontColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "itemDescriptionFontColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemFontColor": { "value": "rgba(0,0,0,1)" },
+              "itemFontColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemIconColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemIconColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemOpacity": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,0)"
+              },
+              "itemShadowOpacityAndColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,0.2)"
+              },
+              "loadMoreButtonBorderColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "loadMoreButtonColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "loadMoreButtonFontColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "oneColorAnimationColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "te-background-color-picker": { "value": "rgba(119,167,191,1)" },
+              "textBoxBorderColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "textBoxFillColor": {
+                "themeName": "color_12",
+                "value": "rgba(247,247,247,1)"
+              },
+              "titleColorExpand": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              }
+            },
+            "numbers": {
+              "galleryHorizontalAlign": 2,
+              "galleryLayout": 1,
+              "galleryVerticalAlign": 0,
+              "gridStyle": 1,
+              "imageHoverAnimation": 1,
+              "imageMargin": 30,
+              "itemClick": 1,
+              "numberOfImagesPerRow": 2,
+              "overlayAnimation": 2,
+              "scrollAnimation": 4,
+              "te-padding-slider": 30
+            },
+            "booleans": {
+              "addPanel": true,
+              "allowDescription": false,
+              "allowSocial": false,
+              "dummyBooly": true,
+              "loveButton": false,
+              "previewHover": false,
+              "usmToggle": false,
+              "videoSound": true
+            },
+            "fonts": {
+              "descriptionFontExpand": {
+                "style": { "bold": false, "italic": false, "underline": false },
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "preset": "Body-M",
+                "editorKey": "font_8",
+                "size": 15,
+                "displayName": "Paragraph 2",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "itemDescriptionFont": {
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Body-M",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "itemDescriptionFontSlideshow": {
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Body-M",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "itemFont": {
+                "style": { "bold": false, "italic": false, "underline": false },
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "preset": "Body-L",
+                "editorKey": "font_7",
+                "size": 17,
+                "fontStyleParam": true,
+                "displayName": "Paragraph 1",
+                "value": "font:normal normal normal 17px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "itemFontSlideshow": {
+                "family": "avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif",
+                "displayName": "Basic Heading",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 25,
+                "preset": "Heading-M",
+                "editorKey": "font_5",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 25px/1.4em avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;"
+              },
+              "loadMoreButtonFont": {
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Body-M",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "loadMoreButtonText": "Load more",
+              "text-editor-font": {
+                "family": "raleway,sans-serif",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 40,
+                "preset": "Custom",
+                "editorKey": "font_2",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 40px/50px raleway,sans-serif;"
+              },
+              "titleFontExpand": {
+                "style": { "bold": false, "italic": false, "underline": false },
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "preset": "Body-L",
+                "editorKey": "font_7",
+                "size": 17,
+                "displayName": "Paragraph 1",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 17px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              }
+            },
+            "googleFontsCssUrl": "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googleAPI/css?family=Raleway:n,b,i,bi|&subset=latin",
+            "uploadFontFaces": ""
+          }
+        },
+        "allStyles": [
+          {
+            "colors": {
+              "arrowsColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "backColor": {
+                "themeName": "color_12",
+                "value": "rgba(247,247,247,1)"
+              },
+              "bgColorExpand": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "descriptionColorExpand": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "foreColor": {
+                "themeName": "color_12",
+                "value": "rgba(247,247,247,1)"
+              },
+              "imageLoadingColor": {
+                "themeName": "color_13",
+                "value": "rgba(198,198,198,1)"
+              },
+              "itemBorderColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemDescriptionFontColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "itemDescriptionFontColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemFontColor": { "value": "rgba(0,0,0,1)" },
+              "itemFontColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemIconColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemIconColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemOpacity": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,0)"
+              },
+              "itemShadowOpacityAndColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,0.2)"
+              },
+              "loadMoreButtonBorderColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "loadMoreButtonColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "loadMoreButtonFontColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "oneColorAnimationColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "te-background-color-picker": { "value": "rgba(119,167,191,1)" },
+              "textBoxBorderColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "textBoxFillColor": {
+                "themeName": "color_12",
+                "value": "rgba(247,247,247,1)"
+              },
+              "titleColorExpand": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              }
+            },
+            "numbers": {
+              "galleryHorizontalAlign": 2,
+              "galleryLayout": 1,
+              "galleryVerticalAlign": 0,
+              "gridStyle": 1,
+              "imageHoverAnimation": 1,
+              "imageMargin": 30,
+              "itemClick": 1,
+              "numberOfImagesPerRow": 2,
+              "overlayAnimation": 2,
+              "scrollAnimation": 4,
+              "te-padding-slider": 30
+            },
+            "booleans": {
+              "addPanel": true,
+              "allowDescription": false,
+              "allowSocial": false,
+              "dummyBooly": true,
+              "loveButton": false,
+              "previewHover": false,
+              "usmToggle": false,
+              "videoSound": true
+            },
+            "fonts": {
+              "descriptionFontExpand": {
+                "style": { "bold": false, "italic": false, "underline": false },
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "preset": "Body-M",
+                "editorKey": "font_8",
+                "size": 15,
+                "displayName": "Paragraph 2",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "itemDescriptionFont": {
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Body-M",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "itemDescriptionFontSlideshow": {
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Body-M",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "itemFont": {
+                "style": { "bold": false, "italic": false, "underline": false },
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "preset": "Body-L",
+                "editorKey": "font_7",
+                "size": 17,
+                "fontStyleParam": true,
+                "displayName": "Paragraph 1",
+                "value": "font:normal normal normal 17px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "itemFontSlideshow": {
+                "family": "avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif",
+                "displayName": "Basic Heading",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 25,
+                "preset": "Heading-M",
+                "editorKey": "font_5",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 25px/1.4em avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;"
+              },
+              "loadMoreButtonFont": {
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Body-M",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "loadMoreButtonText": "Load more",
+              "text-editor-font": {
+                "family": "raleway,sans-serif",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 40,
+                "preset": "Custom",
+                "editorKey": "font_2",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 40px/50px raleway,sans-serif;"
+              },
+              "titleFontExpand": {
+                "style": { "bold": false, "italic": false, "underline": false },
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "preset": "Body-L",
+                "editorKey": "font_7",
+                "size": 17,
+                "displayName": "Paragraph 1",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 17px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              }
+            },
+            "googleFontsCssUrl": "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googleAPI/css?family=Raleway:n,b,i,bi|&subset=latin",
+            "uploadFontFaces": ""
+          }
+        ],
+        "dimensions": { "width": "", "height": 3831 },
+        "isInFirstFold": true,
+        "usesCssPerBreakpoint": false
+      }
+    }
+  },
+  "orderedControllers": ["comp-jus09bzi"],
+  "sdkData": {
+    "comp-jus09bz3": { "linkPropsByHref": {} },
+    "z0a5z": {
+      "currentPageSEODescription": "",
+      "currentPageSEOKeywords": "",
+      "currentUrlPageTitle": "",
+      "visibleInMenu": false
+    }
+  },
+  "staticEvents": [],
+  "compIdConnections": {
+    "comp-jus09bz3": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text11",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "z0a5z": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "page1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lj5hd76d": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "section1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-jus09bx8": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "columnStrip3",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-jus09byy": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "column3",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-jus09bzi": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "gallery1",
+        "controllerCompId": "wixCode"
+      }
+    }
+  },
+  "containersChildrenIds": {
+    "z0a5z": ["comp-lj5hd76d"],
+    "comp-lj5hd76d": ["comp-jus09bx8"],
+    "comp-jus09bx8": ["comp-jus09byy"],
+    "comp-jus09byy": ["comp-jus09bz3", "comp-jus09bzi"]
+  },
+  "onLoadProperties": {},
+  "compIdToRepeaterId": {},
+  "sosp": { "pagesToShowSosp": {}, "controllersInSosp": {} },
+  "ghosts": { "structure": {}, "props": {}, "parentComponentsUpdates": {} },
+  "hasTPAComponentOnPage": false,
+  "hasBlocksWidgetOnPage": false,
+  "allControllersOnPageAreGhosts": false,
+  "responsiveCompsInClassic": {},
+  "slots": {}
+}

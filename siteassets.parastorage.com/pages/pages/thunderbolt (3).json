@@ -1,0 +1,2241 @@
+{
+  "applications": {
+    "14271d6f-ba62-d045-549b-ab972ae1f70e": {
+      "comp-jhhk4hfh": {
+        "compId": "comp-jhhk4hfh",
+        "controllerType": "142bb34d-3439-576a-7118-683e690a1e0d",
+        "applicationId": "14271d6f-ba62-d045-549b-ab972ae1f70e"
+      },
+      "comp-k4f37ba2": {
+        "compId": "comp-k4f37ba2",
+        "controllerType": "142bb34d-3439-576a-7118-683e690a1e0d",
+        "applicationId": "14271d6f-ba62-d045-549b-ab972ae1f70e"
+      }
+    },
+    "675bbcef-18d8-41f5-800e-131ec9e08762": {
+      "wixCode": {
+        "compId": "wixCode",
+        "controllerType": "wixCode",
+        "applicationId": "675bbcef-18d8-41f5-800e-131ec9e08762",
+        "externalId": ""
+      }
+    }
+  },
+  "connections": {
+    "wixCode": {
+      "text29": [{ "compId": "comp-ihpx2cmf", "role": "text29" }],
+      "gallery2": [{ "compId": "comp-k15wyh78", "role": "gallery2" }],
+      "vectorImage1": [{ "compId": "comp-juk0xuga", "role": "vectorImage1" }],
+      "anchor5": [{ "compId": "comp-iggq277c", "role": "anchor5" }],
+      "anchor4": [{ "compId": "comp-iggq2kqb", "role": "anchor4" }],
+      "anchor3": [{ "compId": "comp-iggq2qkr", "role": "anchor3" }],
+      "anchor2": [{ "compId": "comp-iggq2y8l", "role": "anchor2" }],
+      "anchor1": [{ "compId": "comp-iggq361j", "role": "anchor1" }],
+      "text21": [{ "compId": "comp-ig97s46y", "role": "text21" }],
+      "text20": [{ "compId": "comp-ig28txpj", "role": "text20" }],
+      "text28": [{ "compId": "comp-ig2akd9t", "role": "text28" }],
+      "image3": [{ "compId": "comp-ig27xhrf", "role": "image3" }],
+      "image2": [{ "compId": "comp-ig27xhr7", "role": "image2" }],
+      "image1": [{ "compId": "comp-ig27xhrf1", "role": "image1" }],
+      "text19": [{ "compId": "comp-igcap5nm", "role": "text19" }],
+      "text18": [{ "compId": "comp-igcaux6d", "role": "text18" }],
+      "line7": [{ "compId": "comp-igksbkih", "role": "line7" }],
+      "text17": [{ "compId": "comp-igcas5ay", "role": "text17" }],
+      "text16": [{ "compId": "comp-igcaww12", "role": "text16" }],
+      "line6": [{ "compId": "comp-igksdo3p", "role": "line6" }],
+      "text15": [{ "compId": "comp-igcaszkw", "role": "text15" }],
+      "text14": [{ "compId": "comp-igcaxjng", "role": "text14" }],
+      "line5": [{ "compId": "comp-igksdxk1", "role": "line5" }],
+      "text13": [{ "compId": "comp-igcauc6m", "role": "text13" }],
+      "text12": [{ "compId": "comp-igcaylp6", "role": "text12" }],
+      "text11": [{ "compId": "comp-ig99sh5k", "role": "text11" }],
+      "text56": [{ "compId": "comp-jus049gu", "role": "text56" }],
+      "text10": [{ "compId": "comp-ig99wz1u", "role": "text10" }],
+      "text9": [{ "compId": "comp-ig9a1pw3", "role": "text9" }],
+      "googleMaps1": [{ "compId": "comp-ig69hlqz", "role": "googleMaps1" }],
+      "text8": [{ "compId": "comp-ihw3ewfo", "role": "text8" }],
+      "text7": [{ "compId": "comp-ig69un0m", "role": "text7" }],
+      "text5": [{ "compId": "comp-igcg5yfo", "role": "text5" }],
+      "text4": [{ "compId": "comp-ihw3hwha", "role": "text4" }],
+      "text54": [{ "compId": "comp-jupoyw7t", "role": "text54" }],
+      "text55": [{ "compId": "comp-jupoyw8l", "role": "text55" }],
+      "text27": [{ "compId": "comp-ig277xw1", "role": "text27" }],
+      "text26": [{ "compId": "comp-ig9krip2", "role": "text26" }],
+      "text25": [{ "compId": "comp-ig97mhlm", "role": "text25" }],
+      "text24": [{ "compId": "comp-ig97nh1r", "role": "text24" }],
+      "text23": [{ "compId": "comp-ig97m2j4", "role": "text23" }],
+      "text22": [{ "compId": "comp-ig97o77u", "role": "text22" }],
+      "input3": [{ "compId": "comp-jhsq8k9z", "role": "input3" }],
+      "input2": [{ "compId": "comp-jhsq8n8i", "role": "input2" }],
+      "input1": [{ "compId": "comp-jhsq925h", "role": "input1" }],
+      "textBox1": [{ "compId": "comp-jhsq99b7", "role": "textBox1" }],
+      "button1": [{ "compId": "comp-jhsq5yot", "role": "button1" }],
+      "text6": [{ "compId": "comp-jhsq5yol", "role": "text6" }],
+      "page1": [{ "compId": "e6zct", "role": "page1" }],
+      "section1": [{ "compId": "comp-lj5hd75w", "role": "section1" }],
+      "section2": [{ "compId": "comp-lj5hd75x", "role": "section2" }],
+      "section3": [{ "compId": "comp-lj5hd75x1", "role": "section3" }],
+      "section4": [{ "compId": "comp-lj5hd75y", "role": "section4" }],
+      "section5": [{ "compId": "comp-lj5hd75y1", "role": "section5" }],
+      "section6": [{ "compId": "comp-lj5hd75z", "role": "section6" }],
+      "section7": [{ "compId": "comp-lj5hd75z1", "role": "section7" }],
+      "columnStrip6": [{ "compId": "comp-ig277xvm1", "role": "columnStrip6" }],
+      "columnStrip5": [{ "compId": "comp-igahromo", "role": "columnStrip5" }],
+      "box1": [{ "compId": "comp-igahubrl", "role": "box1" }],
+      "columnStrip4": [{ "compId": "comp-igcaoi6c", "role": "columnStrip4" }],
+      "columnStrip3": [{ "compId": "comp-ig83aypt", "role": "columnStrip3" }],
+      "columnStrip2": [{ "compId": "comp-ig69co8q", "role": "columnStrip2" }],
+      "columnStrip1": [{ "compId": "comp-ig69o2ml", "role": "columnStrip1" }],
+      "column6": [{ "compId": "mediairc22j4j1", "role": "column6" }],
+      "column5": [{ "compId": "mediairc22j4k11", "role": "column5" }],
+      "column4": [{ "compId": "mediairc22j4k17", "role": "column4" }],
+      "column3": [{ "compId": "mediairc22j4k5", "role": "column3" }],
+      "column2": [{ "compId": "mediairc22j4j7", "role": "column2" }],
+      "column1": [{ "compId": "mediairc22j4j13", "role": "column1" }],
+      "box4": [{ "compId": "comp-ig9krioy", "role": "box4" }],
+      "box3": [{ "compId": "comp-ig96d6f5", "role": "box3" }],
+      "box2": [{ "compId": "comp-ig96e99p", "role": "box2" }],
+      "gallery1": [{ "compId": "comp-jhhk4hfh", "role": "gallery1" }],
+      "gallery3": [{ "compId": "comp-k4f37ba2", "role": "gallery3" }],
+      "form1": [{ "compId": "comp-jhsq5ybc", "role": "form1" }]
+    },
+    "comp-jhsq5y5j": {
+      "field_role_text": [
+        {
+          "compId": "comp-jhsq8k9z",
+          "role": "field_role_text",
+          "config": {
+            "crmType": "firstName",
+            "crmLabel": "Name",
+            "fieldType": "firstName",
+            "collectionFieldType": "text",
+            "label": "Name"
+          }
+        },
+        {
+          "compId": "comp-jhsq8n8i",
+          "role": "field_role_text",
+          "config": {
+            "crmType": "email",
+            "crmTag": "other",
+            "crmLabel": "Email",
+            "fieldType": "email",
+            "collectionFieldType": "text",
+            "label": "Email"
+          }
+        },
+        {
+          "compId": "comp-jhsq925h",
+          "role": "field_role_text",
+          "config": {
+            "crmType": "customField",
+            "crmLabel": "Subject",
+            "fieldType": "generalText",
+            "collectionFieldType": "text",
+            "customFieldId": "58d25a54-3890-4caf-bcee-ac5c6ba57f6d",
+            "label": "Subject"
+          }
+        }
+      ],
+      "field_role_text_area": [
+        {
+          "compId": "comp-jhsq99b7",
+          "role": "field_role_text_area",
+          "config": {
+            "crmType": "customField",
+            "crmLabel": "Message",
+            "fieldType": "generalTextBox",
+            "collectionFieldType": "text",
+            "customFieldId": "a41957c3-ebb2-4ee3-83db-fb5d1988a36f",
+            "label": "Message"
+          }
+        }
+      ],
+      "button_Role": [
+        {
+          "compId": "comp-jhsq5yot",
+          "role": "button_Role",
+          "config": { "collectionFieldKey": "" }
+        }
+      ],
+      "message_Role": [
+        {
+          "compId": "comp-jhsq5yol",
+          "role": "message_Role",
+          "config": { "collectionFieldKey": "" }
+        }
+      ],
+      "form_Role": [
+        {
+          "compId": "comp-jhsq5ybc",
+          "role": "form_Role",
+          "config": {
+            "preset": "contact-form",
+            "labels": ["contacts-contacted_me"],
+            "emailId": "491c89d0-8402-4459-9791-713a2b4b8712",
+            "errorMessage": "Fill in missing fields.",
+            "secondsToResetForm": 3,
+            "successActionType": "SHOW_MESSAGE",
+            "styles": {
+              "input": {
+                "bg": "color_11",
+                "bge": "color_11",
+                "bgf": "color_11",
+                "bgh": "color_11",
+                "brd": "color_15",
+                "brde": "#f60419",
+                "brdf": "color_18",
+                "brdh": "color_15",
+                "fnt": "font_8",
+                "txt": "color_15",
+                "txt2": "color_14"
+              },
+              "box": { "bg": "color_11" }
+            },
+            "collectionId": 0,
+            "formName": "Contacts Form",
+            "msid": "44101ac4-b1a9-4fb5-a26e-a0c672703f14",
+            "formId": "9db028a1-7d41-443b-b601-ae43ec126402",
+            "columns": 1,
+            "secondEmailId": "491c89d0-8402-4459-9791-713a2b4b8712",
+            "labelKeys": ["contacts.contacted-me"]
+          }
+        }
+      ]
+    }
+  },
+  "controllerConfigs": {
+    "14271d6f-ba62-d045-549b-ab972ae1f70e": {
+      "comp-jhhk4hfh": {
+        "externalId": "6ba74bc8-0ead-4bfb-965b-be60ffe2939d",
+        "publicData": { "COMPONENT": { "imageMediaManagerConfirmed": false } },
+        "style": {
+          "styleParams": {
+            "colors": {
+              "arrowsColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "backColor": {
+                "themeName": "color_12",
+                "value": "rgba(247,247,247,1)"
+              },
+              "bgColorExpand": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "descriptionColorExpand": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "foreColor": {
+                "themeName": "color_12",
+                "value": "rgba(247,247,247,1)"
+              },
+              "imageLoadingColor": {
+                "themeName": "color_13",
+                "value": "rgba(198,198,198,1)"
+              },
+              "itemBorderColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemDescriptionFontColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "itemDescriptionFontColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemFontColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "itemFontColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemIconColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemIconColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemOpacity": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,0)"
+              },
+              "itemShadowOpacityAndColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,0.2)"
+              },
+              "loadMoreButtonBorderColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "loadMoreButtonColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "loadMoreButtonFontColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "m_arrowsColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "m_itemBorderColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "m_itemDescriptionFontColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "m_itemDescriptionFontColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "m_itemFontColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "m_itemFontColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "m_itemIconColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "m_itemIconColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "m_itemOpacity": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,0.8)"
+              },
+              "m_itemShadowOpacityAndColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,0.2)"
+              },
+              "m_loadMoreButtonBorderColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "m_loadMoreButtonColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "m_loadMoreButtonFontColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "m_oneColorAnimationColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "oneColorAnimationColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "te-background-color-picker": { "value": "rgba(119,167,191,1)" },
+              "textBoxBorderColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "textBoxFillColor": {
+                "themeName": "color_12",
+                "value": "rgba(247,247,247,1)"
+              },
+              "titleColorExpand": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              }
+            },
+            "numbers": {
+              "galleryHorizontalAlign": 2,
+              "galleryLayout": 1,
+              "galleryVerticalAlign": 0,
+              "gridStyle": 1,
+              "imageHoverAnimation": 1,
+              "imageLoadingMode": 0,
+              "imageMargin": 30,
+              "itemClick": 3,
+              "numberOfImagesPerRow": 2,
+              "overlayAnimation": 2,
+              "scrollAnimation": 3,
+              "te-padding-slider": 30
+            },
+            "booleans": {
+              "addPanel": true,
+              "allowDescription": false,
+              "allowSocial": false,
+              "dummyBooly": true,
+              "loveButton": false,
+              "previewHover": false,
+              "usmToggle": false,
+              "videoSound": true
+            },
+            "fonts": {
+              "descriptionFontExpand": {
+                "style": { "bold": false, "italic": false, "underline": false },
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "preset": "Body-M",
+                "editorKey": "font_8",
+                "size": 15,
+                "displayName": "Paragraph 2",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "itemDescriptionFont": {
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Body-M",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "itemDescriptionFontSlideshow": {
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Body-M",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "itemFont": {
+                "style": { "bold": false, "italic": false, "underline": false },
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "preset": "Custom",
+                "editorKey": "font_7",
+                "size": 6,
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 6px/7px helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "itemFontSlideshow": {
+                "family": "avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif",
+                "displayName": "Basic Heading",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 25,
+                "preset": "Heading-M",
+                "editorKey": "font_5",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 25px/1.4em avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;"
+              },
+              "loadMoreButtonFont": {
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Body-M",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "loadMoreButtonText": "Load more",
+              "m_itemDescriptionFont": {
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Custom",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/18px helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "m_itemDescriptionFontSlideshow": {
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Custom",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/18px helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "m_itemFont": {
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "displayName": "Paragraph 1",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 17,
+                "preset": "Custom",
+                "editorKey": "font_7",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 17px/21px helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "m_itemFontSlideshow": {
+                "family": "avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif",
+                "displayName": "Heading 5",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 25,
+                "preset": "Custom",
+                "editorKey": "font_5",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 25px/31px avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;"
+              },
+              "m_loadMoreButtonFont": {
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Custom",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/18px helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "text-editor-font": {
+                "family": "raleway,sans-serif",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 40,
+                "preset": "Custom",
+                "editorKey": "font_2",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 40px/50px raleway,sans-serif;"
+              },
+              "titleFontExpand": {
+                "style": { "bold": false, "italic": false, "underline": false },
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "preset": "Body-L",
+                "editorKey": "font_7",
+                "size": 17,
+                "displayName": "Paragraph 1",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 17px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              }
+            },
+            "googleFontsCssUrl": "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googleAPI/css?family=Raleway:n,b,i,bi|&subset=latin",
+            "uploadFontFaces": ""
+          }
+        },
+        "allStyles": [
+          {
+            "colors": {
+              "arrowsColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "backColor": {
+                "themeName": "color_12",
+                "value": "rgba(247,247,247,1)"
+              },
+              "bgColorExpand": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "descriptionColorExpand": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "foreColor": {
+                "themeName": "color_12",
+                "value": "rgba(247,247,247,1)"
+              },
+              "imageLoadingColor": {
+                "themeName": "color_13",
+                "value": "rgba(198,198,198,1)"
+              },
+              "itemBorderColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemDescriptionFontColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "itemDescriptionFontColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemFontColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "itemFontColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemIconColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemIconColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemOpacity": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,0)"
+              },
+              "itemShadowOpacityAndColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,0.2)"
+              },
+              "loadMoreButtonBorderColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "loadMoreButtonColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "loadMoreButtonFontColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "m_arrowsColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "m_itemBorderColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "m_itemDescriptionFontColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "m_itemDescriptionFontColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "m_itemFontColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "m_itemFontColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "m_itemIconColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "m_itemIconColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "m_itemOpacity": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,0.8)"
+              },
+              "m_itemShadowOpacityAndColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,0.2)"
+              },
+              "m_loadMoreButtonBorderColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "m_loadMoreButtonColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "m_loadMoreButtonFontColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "m_oneColorAnimationColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "oneColorAnimationColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "te-background-color-picker": { "value": "rgba(119,167,191,1)" },
+              "textBoxBorderColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "textBoxFillColor": {
+                "themeName": "color_12",
+                "value": "rgba(247,247,247,1)"
+              },
+              "titleColorExpand": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              }
+            },
+            "numbers": {
+              "galleryHorizontalAlign": 2,
+              "galleryLayout": 1,
+              "galleryVerticalAlign": 0,
+              "gridStyle": 1,
+              "imageHoverAnimation": 1,
+              "imageLoadingMode": 0,
+              "imageMargin": 30,
+              "itemClick": 3,
+              "numberOfImagesPerRow": 2,
+              "overlayAnimation": 2,
+              "scrollAnimation": 3,
+              "te-padding-slider": 30
+            },
+            "booleans": {
+              "addPanel": true,
+              "allowDescription": false,
+              "allowSocial": false,
+              "dummyBooly": true,
+              "loveButton": false,
+              "previewHover": false,
+              "usmToggle": false,
+              "videoSound": true
+            },
+            "fonts": {
+              "descriptionFontExpand": {
+                "style": { "bold": false, "italic": false, "underline": false },
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "preset": "Body-M",
+                "editorKey": "font_8",
+                "size": 15,
+                "displayName": "Paragraph 2",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "itemDescriptionFont": {
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Body-M",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "itemDescriptionFontSlideshow": {
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Body-M",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "itemFont": {
+                "style": { "bold": false, "italic": false, "underline": false },
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "preset": "Custom",
+                "editorKey": "font_7",
+                "size": 6,
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 6px/7px helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "itemFontSlideshow": {
+                "family": "avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif",
+                "displayName": "Basic Heading",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 25,
+                "preset": "Heading-M",
+                "editorKey": "font_5",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 25px/1.4em avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;"
+              },
+              "loadMoreButtonFont": {
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Body-M",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "loadMoreButtonText": "Load more",
+              "m_itemDescriptionFont": {
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Custom",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/18px helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "m_itemDescriptionFontSlideshow": {
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Custom",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/18px helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "m_itemFont": {
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "displayName": "Paragraph 1",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 17,
+                "preset": "Custom",
+                "editorKey": "font_7",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 17px/21px helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "m_itemFontSlideshow": {
+                "family": "avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif",
+                "displayName": "Heading 5",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 25,
+                "preset": "Custom",
+                "editorKey": "font_5",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 25px/31px avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;"
+              },
+              "m_loadMoreButtonFont": {
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Custom",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/18px helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "text-editor-font": {
+                "family": "raleway,sans-serif",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 40,
+                "preset": "Custom",
+                "editorKey": "font_2",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 40px/50px raleway,sans-serif;"
+              },
+              "titleFontExpand": {
+                "style": { "bold": false, "italic": false, "underline": false },
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "preset": "Body-L",
+                "editorKey": "font_7",
+                "size": 17,
+                "displayName": "Paragraph 1",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 17px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              }
+            },
+            "googleFontsCssUrl": "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googleAPI/css?family=Raleway:n,b,i,bi|&subset=latin",
+            "uploadFontFaces": ""
+          }
+        ],
+        "dimensions": { "width": 940, "height": 2491 },
+        "isInFirstFold": false,
+        "usesCssPerBreakpoint": false
+      },
+      "comp-k4f37ba2": {
+        "externalId": "e08e8ac2-3a68-4cfd-a1d9-16d2cc72070a",
+        "publicData": {},
+        "style": {
+          "styleParams": {
+            "colors": {
+              "actionsColorExpand": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "arrowsColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "backColor": {
+                "themeName": "color_12",
+                "value": "rgba(247,247,247,1)"
+              },
+              "bgColorExpand": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "descriptionColorExpand": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "foreColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "imageLoadingColor": {
+                "themeName": "color_13",
+                "value": "rgba(198,198,198,1)"
+              },
+              "itemBorderColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemDescriptionFontColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "itemDescriptionFontColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemFontColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "itemFontColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemIconColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "itemIconColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemOpacity": {
+                "themeName": "color_14",
+                "value": "rgba(148,148,148,0.6)"
+              },
+              "itemShadowOpacityAndColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,0.2)"
+              },
+              "loadMoreButtonBorderColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "loadMoreButtonColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "loadMoreButtonFontColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "oneColorAnimationColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "te-background-color-picker": {
+                "themeName": "color_17",
+                "value": "rgba(243,227,137,1)"
+              },
+              "textBoxBorderColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "textBoxFillColor": {
+                "themeName": "color_12",
+                "value": "rgba(247,247,247,1)"
+              },
+              "titleColorExpand": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              }
+            },
+            "numbers": {
+              "collageDensity": 100,
+              "enableInfiniteScroll": 1,
+              "galleryHorizontalAlign": 0,
+              "galleryImageRatio": 2,
+              "galleryLayout": 2,
+              "gallerySize": 1,
+              "galleryVerticalAlign": 2,
+              "imageMargin": 10,
+              "isRTL": 0,
+              "itemClick": 2,
+              "loveCounter": 1,
+              "newItemsDetails": 1,
+              "newItemsLocation": 0,
+              "te-padding-slider": 50,
+              "thumbnailSpacings": 18
+            },
+            "booleans": {
+              "addPanel": true,
+              "allowDescription": false,
+              "allowSocial": false,
+              "allowTitle": false,
+              "dummyBooly": true,
+              "loveButton": false,
+              "previewHover": false,
+              "shouldUnDock": false,
+              "usmToggle": true
+            },
+            "fonts": {
+              "descriptionFontExpand": {
+                "style": { "bold": false, "italic": false, "underline": false },
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "preset": "Body-M",
+                "editorKey": "font_8",
+                "size": 15,
+                "fontStyleParam": true,
+                "displayName": "Paragraph 2",
+                "value": "font:normal normal normal 15px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "itemDescriptionFont": {
+                "family": "avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Custom",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/18px avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif;"
+              },
+              "itemDescriptionFontSlideshow": {
+                "family": "avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Custom",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/18px avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif;"
+              },
+              "itemFont": {
+                "style": { "bold": false, "italic": false, "underline": false },
+                "family": "avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif",
+                "preset": "Heading-S",
+                "editorKey": "font_6",
+                "size": 22,
+                "fontStyleParam": true,
+                "displayName": "Small Heading",
+                "value": "font:normal normal normal 22px/1.4em avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;"
+              },
+              "itemFontSlideshow": {
+                "family": "avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif",
+                "displayName": "Basic Heading",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 22,
+                "preset": "Custom",
+                "editorKey": "font_5",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 22px/27px avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;"
+              },
+              "loadMoreButtonFont": {
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Body-M",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "loadMoreButtonText": "Load More",
+              "text-editor-font": {
+                "family": "avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif",
+                "displayName": "Page Title",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 55,
+                "preset": "Page-title",
+                "editorKey": "font_2",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 55px/1.4em avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;"
+              },
+              "text-editor-font-1499933245988": {
+                "family": "avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 40,
+                "preset": "Custom",
+                "editorKey": "font_2",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 40px/50px avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif;"
+              },
+              "titleFontExpand": {
+                "style": { "bold": false, "italic": false, "underline": false },
+                "family": "avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif",
+                "preset": "Page-title",
+                "editorKey": "font_2",
+                "size": 55,
+                "fontStyleParam": true,
+                "displayName": "Page Title",
+                "value": "font:normal normal normal 55px/1.4em avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;"
+              }
+            },
+            "googleFontsCssUrl": "",
+            "uploadFontFaces": ""
+          }
+        },
+        "allStyles": [
+          {
+            "colors": {
+              "actionsColorExpand": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "arrowsColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "backColor": {
+                "themeName": "color_12",
+                "value": "rgba(247,247,247,1)"
+              },
+              "bgColorExpand": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "descriptionColorExpand": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "foreColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "imageLoadingColor": {
+                "themeName": "color_13",
+                "value": "rgba(198,198,198,1)"
+              },
+              "itemBorderColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemDescriptionFontColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "itemDescriptionFontColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemFontColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "itemFontColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemIconColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "itemIconColorSlideshow": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "itemOpacity": {
+                "themeName": "color_14",
+                "value": "rgba(148,148,148,0.6)"
+              },
+              "itemShadowOpacityAndColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,0.2)"
+              },
+              "loadMoreButtonBorderColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "loadMoreButtonColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "loadMoreButtonFontColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "oneColorAnimationColor": {
+                "themeName": "color_11",
+                "value": "rgba(255,255,255,1)"
+              },
+              "te-background-color-picker": {
+                "themeName": "color_17",
+                "value": "rgba(243,227,137,1)"
+              },
+              "textBoxBorderColor": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              },
+              "textBoxFillColor": {
+                "themeName": "color_12",
+                "value": "rgba(247,247,247,1)"
+              },
+              "titleColorExpand": {
+                "themeName": "color_15",
+                "value": "rgba(59,58,58,1)"
+              }
+            },
+            "numbers": {
+              "collageDensity": 100,
+              "enableInfiniteScroll": 1,
+              "galleryHorizontalAlign": 0,
+              "galleryImageRatio": 2,
+              "galleryLayout": 2,
+              "gallerySize": 1,
+              "galleryVerticalAlign": 2,
+              "imageMargin": 10,
+              "isRTL": 0,
+              "itemClick": 2,
+              "loveCounter": 1,
+              "newItemsDetails": 1,
+              "newItemsLocation": 0,
+              "te-padding-slider": 50,
+              "thumbnailSpacings": 18
+            },
+            "booleans": {
+              "addPanel": true,
+              "allowDescription": false,
+              "allowSocial": false,
+              "allowTitle": false,
+              "dummyBooly": true,
+              "loveButton": false,
+              "previewHover": false,
+              "shouldUnDock": false,
+              "usmToggle": true
+            },
+            "fonts": {
+              "descriptionFontExpand": {
+                "style": { "bold": false, "italic": false, "underline": false },
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "preset": "Body-M",
+                "editorKey": "font_8",
+                "size": 15,
+                "fontStyleParam": true,
+                "displayName": "Paragraph 2",
+                "value": "font:normal normal normal 15px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "itemDescriptionFont": {
+                "family": "avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Custom",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/18px avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif;"
+              },
+              "itemDescriptionFontSlideshow": {
+                "family": "avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Custom",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/18px avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif;"
+              },
+              "itemFont": {
+                "style": { "bold": false, "italic": false, "underline": false },
+                "family": "avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif",
+                "preset": "Heading-S",
+                "editorKey": "font_6",
+                "size": 22,
+                "fontStyleParam": true,
+                "displayName": "Small Heading",
+                "value": "font:normal normal normal 22px/1.4em avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;"
+              },
+              "itemFontSlideshow": {
+                "family": "avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif",
+                "displayName": "Basic Heading",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 22,
+                "preset": "Custom",
+                "editorKey": "font_5",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 22px/27px avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;"
+              },
+              "loadMoreButtonFont": {
+                "family": "helvetica-w01-light,helvetica-w02-light,sans-serif",
+                "displayName": "Paragraph 2",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 15,
+                "preset": "Body-M",
+                "editorKey": "font_8",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 15px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;"
+              },
+              "loadMoreButtonText": "Load More",
+              "text-editor-font": {
+                "family": "avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif",
+                "displayName": "Page Title",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 55,
+                "preset": "Page-title",
+                "editorKey": "font_2",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 55px/1.4em avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;"
+              },
+              "text-editor-font-1499933245988": {
+                "family": "avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif",
+                "style": { "bold": false, "italic": false, "underline": false },
+                "size": 40,
+                "preset": "Custom",
+                "editorKey": "font_2",
+                "fontStyleParam": true,
+                "value": "font:normal normal normal 40px/50px avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif;"
+              },
+              "titleFontExpand": {
+                "style": { "bold": false, "italic": false, "underline": false },
+                "family": "avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif",
+                "preset": "Page-title",
+                "editorKey": "font_2",
+                "size": 55,
+                "fontStyleParam": true,
+                "displayName": "Page Title",
+                "value": "font:normal normal normal 55px/1.4em avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;"
+              }
+            },
+            "googleFontsCssUrl": "",
+            "uploadFontFaces": ""
+          }
+        ],
+        "dimensions": { "width": 957, "height": 151 },
+        "isInFirstFold": false,
+        "usesCssPerBreakpoint": false
+      }
+    },
+    "675bbcef-18d8-41f5-800e-131ec9e08762": { "wixCode": {} }
+  },
+  "orderedControllers": ["comp-jhhk4hfh", "comp-k4f37ba2"],
+  "sdkData": {
+    "comp-ihpx2cmf": { "linkPropsByHref": {} },
+    "comp-k15wyh78": { "imageDisplayMode": "fit", "dataId": "comp-k15wyh78" },
+    "comp-juk0xuga": {
+      "svgId": "55a01cd53daf43459ec43967a1e316d7.svg",
+      "compId": "comp-juk0xuga",
+      "strokeWidth": 1,
+      "properties": {
+        "type": "VectorImageProperties",
+        "metaData": { "schemaVersion": "1.0", "autoGenerated": false },
+        "displayMode": "stretch"
+      },
+      "layout": {
+        "width": 53,
+        "height": 31,
+        "x": 463,
+        "y": 651,
+        "scale": 1,
+        "rotationInDegrees": 180,
+        "fixedPosition": false
+      },
+      "shadow": {},
+      "colorsMap": [
+        "#FFFFFF",
+        "#FFFFFF",
+        "#000000",
+        "#ED1C24",
+        "#0088CB",
+        "#FFCB05",
+        "#727272",
+        "#B0B0B0",
+        "#FFFFFF",
+        "#727272",
+        "#B0B0B0",
+        "#FFFFFF",
+        "#F7F7F7",
+        "#C6C6C6",
+        "#949494",
+        "#3B3A3A",
+        "#F9EEB1",
+        "#F3E389",
+        "#EDCD1F",
+        "#9E8915",
+        "#4F440A",
+        "#C0D2E5",
+        "#99B2CA",
+        "#5B86B0",
+        "#3D5975",
+        "#1E2D3B",
+        "#FFBBC2",
+        "#FF9AA3",
+        "#FF3447",
+        "#AA232F",
+        "#551118",
+        "#BADEAD",
+        "#8FBD7F",
+        "#509C35",
+        "#356823",
+        "#1B3412",
+        "#FFFFFF",
+        "#3B3A3A",
+        "#F7F7F7",
+        "#C6C6C6",
+        "#949494",
+        "#EDCD1F",
+        "#3B3A3A",
+        "#C6C6C6",
+        "#FFFFFF",
+        "#3B3A3A",
+        "#3B3A3A",
+        "#949494",
+        "#EDCD1F",
+        "#EDCD1F",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#EDCD1F",
+        "#EDCD1F",
+        "#C6C6C6",
+        "#C6C6C6",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#EDCD1F",
+        "#EDCD1F",
+        "#EDCD1F",
+        "#EDCD1F",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#C6C6C6",
+        "#C6C6C6"
+      ],
+      "overrideColors": { "color1": "#000000" },
+      "mediaSvgUrl": "https://static.wixstatic.com/shapes/"
+    },
+    "comp-ig97s46y": { "linkPropsByHref": {} },
+    "comp-ig28txpj": { "linkPropsByHref": {} },
+    "comp-ig2akd9t": { "linkPropsByHref": {} },
+    "comp-ig27xhrf": {
+      "layoutWidth": 300,
+      "layoutHeight": 227,
+      "paddingBottom": 0
+    },
+    "comp-ig27xhr7": {
+      "layoutWidth": 300,
+      "layoutHeight": 227,
+      "paddingBottom": 0
+    },
+    "comp-ig27xhrf1": {
+      "layoutWidth": 300,
+      "layoutHeight": 227,
+      "paddingBottom": 0
+    },
+    "comp-igcap5nm": { "linkPropsByHref": {} },
+    "comp-igcaux6d": { "linkPropsByHref": {} },
+    "comp-igcas5ay": { "linkPropsByHref": {} },
+    "comp-igcaww12": { "linkPropsByHref": {} },
+    "comp-igcaszkw": { "linkPropsByHref": {} },
+    "comp-igcaxjng": { "linkPropsByHref": {} },
+    "comp-igcauc6m": { "linkPropsByHref": {} },
+    "comp-igcaylp6": { "linkPropsByHref": {} },
+    "comp-ig99sh5k": { "linkPropsByHref": {} },
+    "comp-jus049gu": {
+      "linkPropsByHref": {
+        "https://www.leoplusgroup.com/total-project": {
+          "href": "https://www.leoplusgroup.com/total-project",
+          "target": "_self",
+          "type": "PageLink"
+        }
+      }
+    },
+    "comp-ig99wz1u": { "linkPropsByHref": {} },
+    "comp-ig9a1pw3": { "linkPropsByHref": {} },
+    "comp-ihw3ewfo": { "linkPropsByHref": {} },
+    "comp-ig69un0m": { "linkPropsByHref": {} },
+    "comp-igcg5yfo": { "linkPropsByHref": {} },
+    "comp-ihw3hwha": { "linkPropsByHref": {} },
+    "comp-jupoyw7t": { "linkPropsByHref": {} },
+    "comp-jupoyw8l": { "linkPropsByHref": {} },
+    "comp-ig277xw1": { "linkPropsByHref": {} },
+    "comp-ig9krip2": { "linkPropsByHref": {} },
+    "comp-ig97mhlm": { "linkPropsByHref": {} },
+    "comp-ig97nh1r": { "linkPropsByHref": {} },
+    "comp-ig97m2j4": { "linkPropsByHref": {} },
+    "comp-ig97o77u": { "linkPropsByHref": {} },
+    "comp-jhsq8k9z": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgb(247, 247, 247)",
+        "borderColor": "rgb(247, 247, 247)",
+        "borderWidth": "1px",
+        "borderRadius": "0px",
+        "color": "rgb(59, 58, 58)"
+      }
+    },
+    "comp-jhsq8n8i": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgb(247, 247, 247)",
+        "borderColor": "rgb(247, 247, 247)",
+        "borderWidth": "1px",
+        "borderRadius": "0px",
+        "color": "rgb(59, 58, 58)"
+      }
+    },
+    "comp-jhsq925h": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgb(247, 247, 247)",
+        "borderColor": "rgb(247, 247, 247)",
+        "borderWidth": "1px",
+        "borderRadius": "0px",
+        "color": "rgb(59, 58, 58)"
+      }
+    },
+    "comp-jhsq99b7": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgb(247, 247, 247)",
+        "borderColor": "rgb(247, 247, 247)",
+        "borderWidth": "1px",
+        "borderRadius": "0px",
+        "color": "rgb(59, 58, 58)"
+      }
+    },
+    "comp-jhsq5yot": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgb(59, 58, 58)",
+        "borderColor": "rgb(148, 148, 148)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)"
+      }
+    },
+    "comp-jhsq5yol": { "linkPropsByHref": {} },
+    "e6zct": {
+      "currentPageSEODescription": "Survey, Design, and Construction Constrcution in Laos | Leoplus | ລີໂອພລາສ |Vientiane",
+      "currentPageSEOKeywords": "",
+      "currentUrlPageTitle": "Construction in Laos | Leoplus | Vientiane",
+      "visibleInMenu": true
+    },
+    "comp-igahubrl": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgb(247, 247, 247)",
+        "borderColor": "rgb(148, 148, 148)"
+      }
+    },
+    "comp-ig9krioy": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgb(247, 247, 247)",
+        "borderColor": "rgb(148, 148, 148)"
+      }
+    },
+    "comp-ig96d6f5": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgb(247, 247, 247)",
+        "borderColor": "rgb(148, 148, 148)"
+      }
+    },
+    "comp-ig96e99p": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgb(247, 247, 247)",
+        "borderColor": "rgb(148, 148, 148)"
+      }
+    },
+    "comp-jhsq5ybc": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(227, 227, 227)",
+        "borderWidth": "0px",
+        "borderRadius": "0px"
+      }
+    }
+  },
+  "staticEvents": [],
+  "compIdConnections": {
+    "comp-ihpx2cmf": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text29",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-k15wyh78": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "gallery2",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-juk0xuga": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "vectorImage1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-iggq277c": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "anchor5",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-iggq2kqb": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "anchor4",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-iggq2qkr": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "anchor3",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-iggq2y8l": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "anchor2",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-iggq361j": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "anchor1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig97s46y": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text21",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig28txpj": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text20",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig2akd9t": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text28",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig27xhrf": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "image3",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig27xhr7": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "image2",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig27xhrf1": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "image1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-igcap5nm": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text19",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-igcaux6d": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text18",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-igksbkih": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "line7",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-igcas5ay": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text17",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-igcaww12": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text16",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-igksdo3p": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "line6",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-igcaszkw": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text15",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-igcaxjng": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text14",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-igksdxk1": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "line5",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-igcauc6m": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text13",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-igcaylp6": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text12",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig99sh5k": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text11",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-jus049gu": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text56",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig99wz1u": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text10",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig9a1pw3": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text9",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig69hlqz": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "googleMaps1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ihw3ewfo": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text8",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig69un0m": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text7",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-igcg5yfo": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text5",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ihw3hwha": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text4",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-jupoyw7t": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text54",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-jupoyw8l": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text55",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig277xw1": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text27",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig9krip2": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text26",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig97mhlm": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text25",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig97nh1r": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text24",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig97m2j4": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text23",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig97o77u": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text22",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-jhsq8k9z": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "input3",
+        "controllerCompId": "wixCode"
+      },
+      "comp-jhsq5y5j": {
+        "type": "ConnectionItem",
+        "role": "field_role_text",
+        "controllerId": "dataItem-jhsq5y6c",
+        "config": {
+          "crmType": "firstName",
+          "crmLabel": "Name",
+          "fieldType": "firstName",
+          "collectionFieldType": "text",
+          "label": "Name"
+        },
+        "isPrimary": true,
+        "controllerCompId": "comp-jhsq5y5j"
+      }
+    },
+    "comp-jhsq8n8i": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "input2",
+        "controllerCompId": "wixCode"
+      },
+      "comp-jhsq5y5j": {
+        "type": "ConnectionItem",
+        "role": "field_role_text",
+        "controllerId": "dataItem-jhsq5y6c",
+        "config": {
+          "crmType": "email",
+          "crmTag": "other",
+          "crmLabel": "Email",
+          "fieldType": "email",
+          "collectionFieldType": "text",
+          "label": "Email"
+        },
+        "isPrimary": true,
+        "subRole": "subRole_email",
+        "controllerCompId": "comp-jhsq5y5j"
+      }
+    },
+    "comp-jhsq925h": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "input1",
+        "controllerCompId": "wixCode"
+      },
+      "comp-jhsq5y5j": {
+        "type": "ConnectionItem",
+        "role": "field_role_text",
+        "controllerId": "dataItem-jhsq5y6c",
+        "config": {
+          "crmType": "customField",
+          "crmLabel": "Subject",
+          "fieldType": "generalText",
+          "collectionFieldType": "text",
+          "customFieldId": "58d25a54-3890-4caf-bcee-ac5c6ba57f6d",
+          "label": "Subject"
+        },
+        "isPrimary": true,
+        "controllerCompId": "comp-jhsq5y5j"
+      }
+    },
+    "comp-jhsq99b7": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "textBox1",
+        "controllerCompId": "wixCode"
+      },
+      "comp-jhsq5y5j": {
+        "type": "ConnectionItem",
+        "role": "field_role_text_area",
+        "controllerId": "dataItem-jhsq5y6c",
+        "config": {
+          "crmType": "customField",
+          "crmLabel": "Message",
+          "fieldType": "generalTextBox",
+          "collectionFieldType": "text",
+          "customFieldId": "a41957c3-ebb2-4ee3-83db-fb5d1988a36f",
+          "label": "Message"
+        },
+        "isPrimary": true,
+        "controllerCompId": "comp-jhsq5y5j"
+      }
+    },
+    "comp-jhsq5yot": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "button1",
+        "controllerCompId": "wixCode"
+      },
+      "comp-jhsq5y5j": {
+        "type": "ConnectionItem",
+        "role": "button_Role",
+        "controllerId": "dataItem-jhsq5y6c",
+        "config": { "collectionFieldKey": "" },
+        "isPrimary": true,
+        "controllerCompId": "comp-jhsq5y5j"
+      }
+    },
+    "comp-jhsq5yol": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text6",
+        "controllerCompId": "wixCode"
+      },
+      "comp-jhsq5y5j": {
+        "type": "ConnectionItem",
+        "role": "message_Role",
+        "controllerId": "dataItem-jhsq5y6c",
+        "config": { "collectionFieldKey": "" },
+        "isPrimary": true,
+        "controllerCompId": "comp-jhsq5y5j"
+      }
+    },
+    "e6zct": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "page1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lj5hd75w": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "section1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lj5hd75x": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "section2",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lj5hd75x1": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "section3",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lj5hd75y": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "section4",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lj5hd75y1": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "section5",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lj5hd75z": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "section6",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lj5hd75z1": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "section7",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig277xvm1": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "columnStrip6",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-igahromo": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "columnStrip5",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-igahubrl": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "box1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-igcaoi6c": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "columnStrip4",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig83aypt": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "columnStrip3",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig69co8q": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "columnStrip2",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig69o2ml": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "columnStrip1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "mediairc22j4j1": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "column6",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "mediairc22j4k11": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "column5",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "mediairc22j4k17": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "column4",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "mediairc22j4k5": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "column3",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "mediairc22j4j7": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "column2",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "mediairc22j4j13": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "column1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig9krioy": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "box4",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig96d6f5": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "box3",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ig96e99p": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "box2",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-jhhk4hfh": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "gallery1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-k4f37ba2": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "gallery3",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-jhsq5ybc": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "form1",
+        "controllerCompId": "wixCode"
+      },
+      "comp-jhsq5y5j": {
+        "type": "ConnectionItem",
+        "role": "form_Role",
+        "controllerId": "dataItem-jhsq5y6c",
+        "config": {
+          "preset": "contact-form",
+          "labels": ["contacts-contacted_me"],
+          "emailId": "491c89d0-8402-4459-9791-713a2b4b8712",
+          "errorMessage": "Fill in missing fields.",
+          "secondsToResetForm": 3,
+          "successActionType": "SHOW_MESSAGE",
+          "styles": {
+            "input": {
+              "bg": "color_11",
+              "bge": "color_11",
+              "bgf": "color_11",
+              "bgh": "color_11",
+              "brd": "color_15",
+              "brde": "#f60419",
+              "brdf": "color_18",
+              "brdh": "color_15",
+              "fnt": "font_8",
+              "txt": "color_15",
+              "txt2": "color_14"
+            },
+            "box": { "bg": "color_11" }
+          },
+          "collectionId": 0,
+          "formName": "Contacts Form",
+          "msid": "44101ac4-b1a9-4fb5-a26e-a0c672703f14",
+          "formId": "9db028a1-7d41-443b-b601-ae43ec126402",
+          "columns": 1,
+          "secondEmailId": "491c89d0-8402-4459-9791-713a2b4b8712",
+          "labelKeys": ["contacts.contacted-me"]
+        },
+        "isPrimary": true,
+        "controllerCompId": "comp-jhsq5y5j"
+      }
+    }
+  },
+  "containersChildrenIds": {
+    "e6zct": [
+      "comp-lj5hd75w",
+      "comp-lj5hd75x",
+      "comp-lj5hd75x1",
+      "comp-lj5hd75y",
+      "comp-lj5hd75y1",
+      "comp-lj5hd75z",
+      "comp-lj5hd75z1"
+    ],
+    "comp-lj5hd75w": ["comp-ihpx2cmf", "comp-k15wyh78", "comp-juk0xuga"],
+    "comp-lj5hd75x": ["comp-ig277xvm1", "comp-iggq277c"],
+    "comp-lj5hd75x1": ["comp-igahromo", "comp-igahubrl", "comp-iggq2kqb"],
+    "comp-lj5hd75y": ["comp-igcaoi6c"],
+    "comp-lj5hd75y1": ["comp-iggq2qkr", "comp-ig83aypt"],
+    "comp-lj5hd75z": ["comp-ig69co8q", "comp-iggq2y8l"],
+    "comp-lj5hd75z1": ["comp-ig69o2ml", "comp-iggq361j"],
+    "comp-ig277xvm1": ["mediairc22j4j1"],
+    "comp-igahromo": ["mediairc22j4k11"],
+    "comp-igahubrl": ["comp-ig97s46y", "comp-ig28txpj"],
+    "comp-igcaoi6c": ["mediairc22j4k17"],
+    "comp-ig83aypt": ["mediairc22j4k5"],
+    "comp-ig69co8q": ["mediairc22j4j7"],
+    "comp-ig69o2ml": ["mediairc22j4j13"],
+    "mediairc22j4j1": [
+      "comp-ig2akd9t",
+      "comp-ig27xhrf",
+      "comp-ig9krioy",
+      "comp-ig27xhr7",
+      "comp-ig96d6f5",
+      "comp-ig27xhrf1",
+      "comp-ig96e99p"
+    ],
+    "mediairc22j4k17": [
+      "comp-igcap5nm",
+      "comp-igcaux6d",
+      "comp-igksbkih",
+      "comp-igcas5ay",
+      "comp-igcaww12",
+      "comp-igksdo3p",
+      "comp-igcaszkw",
+      "comp-igcaxjng",
+      "comp-igksdxk1",
+      "comp-igcauc6m",
+      "comp-igcaylp6"
+    ],
+    "mediairc22j4k5": ["comp-ig99sh5k", "comp-jhhk4hfh", "comp-jus049gu"],
+    "mediairc22j4j7": ["comp-ig99wz1u", "comp-k4f37ba2"],
+    "mediairc22j4j13": [
+      "comp-ig9a1pw3",
+      "comp-ig69hlqz",
+      "comp-ihw3ewfo",
+      "comp-ig69un0m",
+      "comp-jhsq5ybc",
+      "comp-igcg5yfo",
+      "comp-ihw3hwha",
+      "comp-jupoyw7t",
+      "comp-jupoyw8l"
+    ],
+    "comp-ig9krioy": ["comp-ig277xw1", "comp-ig9krip2"],
+    "comp-ig96d6f5": ["comp-ig97mhlm", "comp-ig97nh1r"],
+    "comp-ig96e99p": ["comp-ig97m2j4", "comp-ig97o77u"],
+    "comp-jhsq5ybc": [
+      "comp-jhsq8k9z",
+      "comp-jhsq8n8i",
+      "comp-jhsq925h",
+      "comp-jhsq99b7",
+      "comp-jhsq5yot",
+      "comp-jhsq5yol"
+    ]
+  },
+  "onLoadProperties": {},
+  "compIdToRepeaterId": {},
+  "sosp": { "pagesToShowSosp": {}, "controllersInSosp": {} },
+  "ghosts": { "structure": {}, "props": {}, "parentComponentsUpdates": {} },
+  "hasTPAComponentOnPage": false,
+  "hasBlocksWidgetOnPage": false,
+  "allControllersOnPageAreGhosts": false,
+  "responsiveCompsInClassic": {},
+  "slots": {}
+}

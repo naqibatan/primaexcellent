@@ -1,0 +1,95 @@
+{
+  "gallery": {
+    "id": "eeeea6e0-7b46-44b3-b599-988af368316d",
+    "totalItemsCount": 6,
+    "items": [
+      {
+        "id": "276f7b95-2f81-4812-9f61-b396deb994f7",
+        "mediaUrl": "https://static.wixstatic.com/media/ca532d_62abfe8d15c14e2bbf82270af895f71b~mv2.jpg",
+        "orderIndex": 1.576903266273e9,
+        "name": "Phonethip plaza-Logo.jpg",
+        "title": "Phonethip plaza-Logo.jpg",
+        "dataType": "Photo",
+        "photoMetadata": { "width": 593, "height": 587 },
+        "secure": false,
+        "createdDate": "2019-12-21T04:41:07Z",
+        "updatedDate": "2021-07-15T03:14:07Z",
+        "mediaOwner": "Undefined",
+        "tags": ["_fileOrigin_uploaded"]
+      },
+      {
+        "id": "4b47ba9f-e513-41a0-8600-32171ff9669e",
+        "mediaUrl": "https://static.wixstatic.com/media/ca532d_f6bfe35d0ab647e195a3181256f0984d~mv2.jpg",
+        "orderIndex": 1.5769038729447498e9,
+        "name": "Embassy of wellness.jpg",
+        "title": "Embassy of wellness.jpg",
+        "dataType": "Photo",
+        "photoMetadata": { "width": 225, "height": 225 },
+        "secure": false,
+        "createdDate": "2019-12-21T05:36:26Z",
+        "updatedDate": "2021-07-15T03:14:07Z",
+        "mediaOwner": "Undefined",
+        "tags": ["_fileOrigin_uploaded"]
+      },
+      {
+        "id": "c542ea5b-6758-4bbf-8318-fb979537a416",
+        "mediaUrl": "https://static.wixstatic.com/media/ca532d_e2047623454e4a4d82d9e57cfdbdffaa~mv2.png",
+        "orderIndex": 1.5769044796165e9,
+        "name": "Lao Poet 2.png",
+        "title": "Lao Poet 2.png",
+        "dataType": "Photo",
+        "photoMetadata": { "width": 227, "height": 227 },
+        "secure": false,
+        "createdDate": "2019-12-21T11:01:45Z",
+        "updatedDate": "2021-07-15T03:14:07Z",
+        "mediaOwner": "Undefined",
+        "tags": ["_fileOrigin_uploaded"]
+      },
+      {
+        "id": "262dd6c4-329a-4e0e-8749-e11e6c6078ea",
+        "mediaUrl": "https://static.wixstatic.com/media/ca532d_43460ef77560471ab29c1b56a4770206~mv2.jpg",
+        "orderIndex": 1.57690569296e9,
+        "name": "Sure stay.jpg",
+        "title": "Sure stay.jpg",
+        "dataType": "Photo",
+        "photoMetadata": { "width": 960, "height": 960 },
+        "secure": false,
+        "createdDate": "2019-12-21T05:21:33Z",
+        "updatedDate": "2021-07-15T03:14:07Z",
+        "mediaOwner": "Undefined",
+        "tags": ["_fileOrigin_uploaded"]
+      },
+      {
+        "id": "a6c11e82-4849-4d53-95dc-c7f6d179033c",
+        "mediaUrl": "https://static.wixstatic.com/media/ca532d_da3250f82efc47d49f86a1633b68ff3e~mv2.jpg",
+        "orderIndex": 1.576905959396e9,
+        "name": "Hardrock.jpg",
+        "title": "Hardrock.jpg",
+        "dataType": "Photo",
+        "photoMetadata": { "width": 550, "height": 550 },
+        "secure": false,
+        "createdDate": "2019-12-21T05:26:01Z",
+        "updatedDate": "2021-07-15T03:14:07Z",
+        "mediaOwner": "Undefined",
+        "tags": ["_fileOrigin_uploaded"]
+      },
+      {
+        "id": "4a8b4d88-6937-48ec-b257-de5d5c4da25b",
+        "mediaUrl": "https://static.wixstatic.com/media/ca532d_d08f5f14079048ae80fb73d116a39b99~mv2.jpg",
+        "orderIndex": 1.576905959397e9,
+        "name": "Hunghuang tractor.jpg",
+        "title": "Hunghuang tractor.jpg",
+        "dataType": "Photo",
+        "photoMetadata": { "width": 960, "height": 958 },
+        "secure": false,
+        "createdDate": "2019-12-21T05:26:01Z",
+        "updatedDate": "2021-07-15T03:14:07Z",
+        "mediaOwner": "Undefined",
+        "tags": ["_fileOrigin_uploaded"]
+      }
+    ],
+    "compId": "comp-k4f37ba2",
+    "created": "2021-07-15T03:14:07Z",
+    "createdDate": "2021-07-15T03:14:07Z"
+  }
+}

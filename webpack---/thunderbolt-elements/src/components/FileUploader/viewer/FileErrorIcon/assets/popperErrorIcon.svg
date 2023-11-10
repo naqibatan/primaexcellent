@@ -1,0 +1,16 @@
+var _path;
+function _extends() { _extends = Object.assign ? Object.assign.bind() : function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
+import * as React from "react";
+var SvgPopperErrorIcon = function SvgPopperErrorIcon(props) {
+  return /*#__PURE__*/React.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 13,
+    height: 13,
+    viewBox: "0 0 13 13"
+  }, props), _path || (_path = /*#__PURE__*/React.createElement("path", {
+    d: "M6.5.001c3.584 0 6.5 2.916 6.5 6.5s-2.916 6.5-6.5 6.5S0 10.085 0 6.501s2.916-6.5 6.5-6.5zm0 1c-3.033 0-5.5 2.467-5.5 5.5s2.467 5.5 5.5 5.5 5.5-2.467 5.5-5.5-2.467-5.5-5.5-5.5zm.5 7v1H6v-1h1zm0-4v3H6v-3h1",
+    fill: "#F64D43",
+    fillRule: "evenodd"
+  })));
+};
+export default SvgPopperErrorIcon;

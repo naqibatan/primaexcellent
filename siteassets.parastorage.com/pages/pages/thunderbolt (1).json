@@ -1,0 +1,411 @@
+{
+  "applications": {
+    "14ce1214-b278-a7e4-1373-00cebd1bef7c": {
+      "comp-jhsq5y5j": {
+        "compId": "comp-jhsq5y5j",
+        "controllerType": "wixForms",
+        "applicationId": "14ce1214-b278-a7e4-1373-00cebd1bef7c"
+      }
+    },
+    "14cc59bc-f0b7-15b8-e1c7-89ce41d0e0c9": {
+      "CONTROLLER_COMP_CUSTOM_ID": {
+        "compId": "CONTROLLER_COMP_CUSTOM_ID",
+        "controllerType": "members",
+        "applicationId": "14cc59bc-f0b7-15b8-e1c7-89ce41d0e0c9"
+      }
+    },
+    "675bbcef-18d8-41f5-800e-131ec9e08762": {
+      "wixCode": {
+        "compId": "wixCode",
+        "controllerType": "wixCode",
+        "applicationId": "675bbcef-18d8-41f5-800e-131ec9e08762",
+        "externalId": ""
+      }
+    }
+  },
+  "connections": {
+    "wixCode": {
+      "singlePostController1": [
+        { "compId": "comp-jhsq5y5j", "role": "singlePostController1" }
+      ],
+      "members1": [
+        { "compId": "CONTROLLER_COMP_CUSTOM_ID", "role": "members1" }
+      ],
+      "horizontalMenu1": [
+        { "compId": "comp-igauz7ee", "role": "horizontalMenu1" }
+      ],
+      "languageSelector43": [
+        { "compId": "comp-jvtb4tj4", "role": "languageSelector43" }
+      ],
+      "image5": [{ "compId": "comp-ihgmra0p", "role": "image5" }],
+      "text30": [{ "compId": "comp-ifwlqiny", "role": "text30" }],
+      "text53": [{ "compId": "comp-jtwu41lb", "role": "text53" }],
+      "input8": [{ "compId": "comp-jtwu41sk", "role": "input8" }],
+      "input9": [{ "compId": "comp-jtwu41yl", "role": "input9" }],
+      "datePicker2": [{ "compId": "comp-jtwu424h", "role": "datePicker2" }],
+      "timePicker2": [{ "compId": "comp-jtwu42al", "role": "timePicker2" }],
+      "input10": [{ "compId": "comp-jtwu42gm", "role": "input10" }],
+      "input11": [{ "compId": "comp-jtwu42mk", "role": "input11" }],
+      "uploadButton3": [{ "compId": "comp-jtwu42sf", "role": "uploadButton3" }],
+      "button3": [{ "compId": "comp-jtwu42yi", "role": "button3" }],
+      "footer1": [{ "compId": "SITE_FOOTER", "role": "footer1" }],
+      "header1": [{ "compId": "SITE_HEADER", "role": "header1" }],
+      "pagesContainer1": [
+        { "compId": "PAGES_CONTAINER", "role": "pagesContainer1" }
+      ],
+      "container1": [
+        { "compId": "SOSP_CONTAINER_CUSTOM_ID", "role": "container1" }
+      ],
+      "box5": [{ "compId": "comp-ihdmixj9", "role": "box5" }],
+      "box7": [{ "compId": "comp-jtwu41i4", "role": "box7" }],
+      "pageGroup1": [{ "compId": "SITE_PAGES", "role": "pageGroup1" }]
+    }
+  },
+  "controllerConfigs": {
+    "14ce1214-b278-a7e4-1373-00cebd1bef7c": {
+      "comp-jhsq5y5j": {
+        "dataset": {
+          "collectionName": "test",
+          "readWriteType": "READ",
+          "filter": null,
+          "sort": null
+        }
+      }
+    },
+    "14cc59bc-f0b7-15b8-e1c7-89ce41d0e0c9": {
+      "CONTROLLER_COMP_CUSTOM_ID": [
+        { "l": "/account/my-bookings" },
+        { "l": "/account/my-account" },
+        { "l": "/account/new-page" },
+        { "l": "/account/new-page-1" },
+        { "l": "/account/new-page-2" }
+      ]
+    },
+    "675bbcef-18d8-41f5-800e-131ec9e08762": { "wixCode": {} }
+  },
+  "orderedControllers": ["comp-jhsq5y5j", "CONTROLLER_COMP_CUSTOM_ID"],
+  "sdkData": {
+    "comp-igauz7ee": {
+      "pageList": {
+        "home": { "id": "e6zct", "title": "HOME" },
+        "total-project": { "id": "z0a5z", "title": "Total project" },
+        "project-1": { "id": "ee1kv", "title": "LEP1804xxx" },
+        "copy-of-lep1804": { "id": "jh1g8", "title": "LEP1905" },
+        "copy-of-lep1905": { "id": "fe432", "title": "LEP1507xxx" },
+        "lao": { "id": "y69jn", "title": "LAO+" },
+        "interesting": { "id": "c7qyf", "title": "NEWS" },
+        "materail-shop": { "id": "k6h9m", "title": "Materail shop" },
+        "engineering": { "id": "cup0n", "title": "Engineering" },
+        "tools": { "id": "myvj6", "title": "TOOLS" },
+        "team": { "id": "yoyx6", "title": "TEAM" },
+        "hh-tractor": { "id": "jy8do", "title": "Daily report" },
+        "fullscreen-page": { "id": "q6s33", "title": "Fullscreen Page" },
+        "my-account": { "id": "fe3ya", "title": "My Account" },
+        "blank-1": { "id": "jd3dj", "title": "Epense" },
+        "blank-2": { "id": "c26l0", "title": "Daily report" },
+        "footing-design": { "id": "nx1q7", "title": "Footing design" },
+        "blank": { "id": "bagz2", "title": "Material search" }
+      }
+    },
+    "comp-ihgmra0p": {
+      "layoutWidth": 59,
+      "layoutHeight": 70,
+      "paddingBottom": 0
+    },
+    "comp-ifwlqiny": {
+      "linkPropsByHref": {
+        "https://www.leoplusgroup.com": {
+          "href": "https://www.leoplusgroup.com",
+          "target": "_self",
+          "type": "PageLink"
+        }
+      }
+    },
+    "comp-jtwu41lb": { "linkPropsByHref": {} },
+    "comp-jtwu41sk": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(198, 226, 247)",
+        "borderWidth": "1px",
+        "borderRadius": "6px",
+        "color": "rgb(0, 166, 255)"
+      }
+    },
+    "comp-jtwu41yl": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(198, 226, 247)",
+        "borderWidth": "1px",
+        "borderRadius": "6px",
+        "color": "rgb(0, 166, 255)"
+      }
+    },
+    "comp-jtwu42gm": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(198, 226, 247)",
+        "borderWidth": "1px",
+        "borderRadius": "6px",
+        "color": "rgb(0, 166, 255)"
+      }
+    },
+    "comp-jtwu42mk": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(198, 226, 247)",
+        "borderWidth": "1px",
+        "borderRadius": "6px",
+        "color": "rgb(0, 166, 255)"
+      }
+    },
+    "comp-jtwu42sf": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(153, 178, 202)",
+        "color": "rgb(145, 145, 145)",
+        "borderRadius": "10px 10px 10px 10px",
+        "borderWidth": "1px"
+      }
+    },
+    "comp-jtwu42yi": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "borderColor": "rgb(153, 178, 202)",
+        "borderWidth": "1px",
+        "borderRadius": "10px 10px 10px 10px",
+        "color": "rgb(50, 50, 50)"
+      }
+    },
+    "SITE_FOOTER": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgb(47, 46, 46)",
+        "borderColor": "rgb(160, 160, 159)"
+      }
+    },
+    "SITE_HEADER": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgb(47, 46, 46)",
+        "borderColor": "rgb(160, 160, 159)"
+      }
+    },
+    "SOSP_CONTAINER_CUSTOM_ID": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(59, 58, 58)"
+      }
+    },
+    "comp-ihdmixj9": {
+      "initialSdkStyles": { "backgroundColor": "rgba(47, 46, 46, 0)" }
+    },
+    "comp-jtwu41i4": {
+      "initialSdkStyles": { "backgroundColor": "rgb(255, 255, 255)" }
+    }
+  },
+  "staticEvents": [
+    {
+      "compId": "SOSP_CONTAINER_CUSTOM_ID",
+      "sourceId": "SOSP_CONTAINER_CUSTOM_ID",
+      "eventType": "viewportEnter",
+      "callbackId": "container1_viewportEnter"
+    }
+  ],
+  "compIdConnections": {
+    "comp-jhsq5y5j": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "singlePostController1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "CONTROLLER_COMP_CUSTOM_ID": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "members1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-igauz7ee": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "horizontalMenu1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-jvtb4tj4": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "languageSelector43",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ihgmra0p": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "image5",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ifwlqiny": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text30",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-jtwu41lb": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text53",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-jtwu41sk": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "input8",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-jtwu41yl": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "input9",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-jtwu424h": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "datePicker2",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-jtwu42al": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "timePicker2",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-jtwu42gm": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "input10",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-jtwu42mk": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "input11",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-jtwu42sf": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "uploadButton3",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-jtwu42yi": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "button3",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "SITE_FOOTER": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "footer1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "SITE_HEADER": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "header1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "PAGES_CONTAINER": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "pagesContainer1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "SOSP_CONTAINER_CUSTOM_ID": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "container1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-ihdmixj9": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "box5",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-jtwu41i4": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "box7",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "SITE_PAGES": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "pageGroup1",
+        "controllerCompId": "wixCode"
+      }
+    }
+  },
+  "containersChildrenIds": {
+    "masterPage": [
+      "SITE_FOOTER",
+      "SITE_HEADER",
+      "PAGES_CONTAINER",
+      "comp-jhsq5y5j",
+      "CONTROLLER_COMP_CUSTOM_ID",
+      "comp-igauz7ee",
+      "SOSP_CONTAINER_CUSTOM_ID",
+      "comp-ihdmixj9"
+    ],
+    "SITE_HEADER": ["comp-jtwu41i4", "comp-jvtb4tj4"],
+    "PAGES_CONTAINER": ["SITE_PAGES"],
+    "comp-ihdmixj9": ["comp-ihgmra0p", "comp-ifwlqiny"],
+    "comp-jtwu41i4": [
+      "comp-jtwu41lb",
+      "comp-jtwu41sk",
+      "comp-jtwu41yl",
+      "comp-jtwu424h",
+      "comp-jtwu42al",
+      "comp-jtwu42gm",
+      "comp-jtwu42mk",
+      "comp-jtwu42sf",
+      "comp-jtwu42yi"
+    ]
+  },
+  "onLoadProperties": { "SOSP_CONTAINER_CUSTOM_ID": { "hiddenOnLoad": true } },
+  "compIdToRepeaterId": {},
+  "sosp": {
+    "pagesToShowSosp": {
+      "fe3ya": true,
+      "jd3dj": true,
+      "c26l0": true,
+      "bagz2": true
+    },
+    "controllersInSosp": {}
+  },
+  "ghosts": { "structure": {}, "props": {}, "parentComponentsUpdates": {} },
+  "hasTPAComponentOnPage": false,
+  "hasBlocksWidgetOnPage": false,
+  "allControllersOnPageAreGhosts": false,
+  "responsiveCompsInClassic": {},
+  "slots": {}
+}

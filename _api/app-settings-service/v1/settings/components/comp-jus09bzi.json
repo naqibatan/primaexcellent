@@ -1,0 +1,19 @@
+{
+  "settings": {
+    "galleryId": "a6e1f40e-db8a-44ca-9ac1-a8200a2cc909",
+    "originGallerySettings": {
+      "pageId": "d34uk",
+      "styleId": "style-jemmuvhd",
+      "upgrades": {
+        "fullscreen": {
+          "date": "Tue Dec 11 2018 18:15:52 GMT+0300 (Москва, стандартное время)"
+        }
+      },
+      "itemClick": "link",
+      "layoutTeaserShowed": true
+    }
+  },
+  "state": "PUBLISHED",
+  "host": "VIEWER",
+  "translations": {}
+}

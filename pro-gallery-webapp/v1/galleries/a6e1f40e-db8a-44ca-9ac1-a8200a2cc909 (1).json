@@ -1,0 +1,25 @@
+{
+  "gallery": {
+    "id": "a6e1f40e-db8a-44ca-9ac1-a8200a2cc909",
+    "totalItemsCount": 26,
+    "items": [
+      {
+        "id": "ebc37411-2353-4bd8-b930-de19dfbfaef8",
+        "mediaUrl": "https://static.wixstatic.com/media/ca532d_9a6ae19db8d948b7a9f4a8077ed498b1~mv2.jpg",
+        "orderIndex": 1.626318595144e12,
+        "name": "DonkoyHouse.jpg",
+        "title": "DonkoyHouse.jpg",
+        "dataType": "Photo",
+        "photoMetadata": { "width": 960, "height": 540 },
+        "secure": false,
+        "createdDate": "2021-07-15T03:09:55Z",
+        "updatedDate": "2023-06-21T10:09:17Z",
+        "mediaOwner": "Undefined",
+        "tags": ["_fileOrigin_uploaded"]
+      }
+    ],
+    "compId": "comp-jus09bzi",
+    "created": "2023-06-21T10:09:17Z",
+    "createdDate": "2023-06-21T10:09:17Z"
+  }
+}

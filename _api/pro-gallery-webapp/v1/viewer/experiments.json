@@ -1,0 +1,29 @@
+{
+  "experiments": {
+    "specs.pro-gallery.usePictureElement": "true",
+    "specs.LocalizationTranslationFlowSpec": "true",
+    "specs.pro-gallery.EnableAlbumsStorePremiumValidation": "true",
+    "specs.pro-gallery.enableFullResFeatureViewer": "true",
+    "specs.pro-gallery.addSEOVideoMetaTags": "false",
+    "specs.pro-gallery.useUnchangingImageRenderer": "true",
+    "specs.pro-gallery.enablePGRenderIndicator": "false",
+    "specs.pro-gallery.excludeFromWarmupData": "false",
+    "specs.pro-gallery.useReactionService": "true",
+    "specs.pro-gallery.excludeFromLayoutFixer": "false",
+    "specs.pro-gallery.useIsInFirstFold": "false",
+    "specs.pro-gallery.useWowImageRenderer": "false",
+    "specs.pro-gallery.useWarmupData": "true",
+    "specs.pro-gallery.useNewReactionsCalculation-Rollout": "true",
+    "specs.pro-gallery.finalReplaceSlideshow": "true",
+    "specs.pro-gallery.useReactPortalInArtStore": "true",
+    "specs.pro-gallery.blockOAP": "false",
+    "specs.pro-gallery.useServerBlueprints-viewer": "false",
+    "specs.pro-gallery.excludeFromThinLinesFix": "false",
+    "specs.pro-gallery.removeRoleApplication": "true",
+    "specs.pro-gallery.horizontalTitlePlacementOptionsViewer": "true",
+    "specs.pro-gallery.disableImagePreload": "true",
+    "specs.pro-gallery.blockCropOnSSR": "true",
+    "specs.pro-gallery.excludeFromPrerenderPerformance": "false",
+    "specs.pro-gallery.appSettings": "true"
+  }
+}

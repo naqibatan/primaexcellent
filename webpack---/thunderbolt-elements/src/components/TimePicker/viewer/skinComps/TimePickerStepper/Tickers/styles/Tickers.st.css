@@ -1,0 +1,11 @@
+
+  var rt = require("@stylable/runtime/dist/css-runtime-stylesheet.js");
+
+  module.exports = rt.create(
+      "Tickers1724666842",
+      {"classes":{"root":"Tickers1724666842__root","ticker":"Tickers1724666842__ticker"},"vars":{},"stVars":{"arrowMargin":"var(--arrowMargin)","iconColor":"rgba(var(--iconColor, 0,0,0), var(--alpha-iconColor, 1))"},"keyframes":{},"layers":{}},
+      "",
+      -1,
+      module.id
+  );
+  
